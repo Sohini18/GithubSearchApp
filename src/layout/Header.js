@@ -28,7 +28,7 @@ const Header = () =>
         <Navbar color="success" light expand="md">
         <NavbarBrand >
         <Link to="/" className="text-white">
-        My GitHub App
+        Repo Hub
         </Link>
         </NavbarBrand>
         <NavbarText className="text-white">
